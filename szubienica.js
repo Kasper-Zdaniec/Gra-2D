@@ -1,5 +1,9 @@
-var tablica_z_haslami = new Array(2);
+var tablica_z_haslami = new Array(5);
 tablica_z_haslami[0] = "Podstawy grafiki komputerowej";
+tablica_z_haslami[1] = "Rysunek dwuwymiarowy";
+tablica_z_haslami[2] = "Gra dwuwymiarowa";
+tablica_z_haslami[3] = "Własne inicjały za pomocą krzywych Beziera";
+tablica_z_haslami[4] = "Rysunek trzech obiektów trójwymiarowych przy pomocy powierzchni Beziera";
 
 
 function losowanie()
